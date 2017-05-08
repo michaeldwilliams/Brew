@@ -8,10 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		F9F9240E1EBBC549009CAB85 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F9240D1EBBC549009CAB85 /* AppDelegate.swift */; };
-		F9F924101EBBC549009CAB85 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F9240F1EBBC549009CAB85 /* ViewController.swift */; };
 		F9F924131EBBC549009CAB85 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F9F924111EBBC549009CAB85 /* Main.storyboard */; };
 		F9F924151EBBC549009CAB85 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F9F924141EBBC549009CAB85 /* Assets.xcassets */; };
 		F9F924201EBBC549009CAB85 /* BrewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F9241F1EBBC549009CAB85 /* BrewTests.swift */; };
+		F9F9242B1EBBCC73009CAB85 /* CoffeeCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F9242A1EBBCC73009CAB85 /* CoffeeCollectionViewController.swift */; };
+		F9F9242D1EBBCC8F009CAB85 /* CoffeeCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F9242C1EBBCC8F009CAB85 /* CoffeeCollectionViewCell.swift */; };
+		F9F9242F1EBBD165009CAB85 /* CoffeeItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F9242E1EBBD165009CAB85 /* CoffeeItem.swift */; };
+		F9F924311EBCECAB009CAB85 /* SplitViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F924301EBCECAB009CAB85 /* SplitViewController.swift */; };
+		F9F924331EBCECFE009CAB85 /* MenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F924321EBCECFE009CAB85 /* MenuTableViewController.swift */; };
+		F9F924351EBCF5B5009CAB85 /* DescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F924341EBCF5B5009CAB85 /* DescriptionViewController.swift */; };
+		F9F924371EBCF5BF009CAB85 /* BrewMethodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F924361EBCF5BF009CAB85 /* BrewMethodViewController.swift */; };
+		F9F924391EBCF5CB009CAB85 /* VideoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9F924381EBCF5CB009CAB85 /* VideoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,13 +34,20 @@
 /* Begin PBXFileReference section */
 		F9F9240A1EBBC549009CAB85 /* Brew.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Brew.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9F9240D1EBBC549009CAB85 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		F9F9240F1EBBC549009CAB85 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		F9F924121EBBC549009CAB85 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F9F924141EBBC549009CAB85 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F9F924161EBBC549009CAB85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F9F9241B1EBBC549009CAB85 /* BrewTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BrewTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9F9241F1EBBC549009CAB85 /* BrewTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BrewTests.swift; sourceTree = "<group>"; };
 		F9F924211EBBC549009CAB85 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F9F9242A1EBBCC73009CAB85 /* CoffeeCollectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoffeeCollectionViewController.swift; sourceTree = "<group>"; };
+		F9F9242C1EBBCC8F009CAB85 /* CoffeeCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoffeeCollectionViewCell.swift; sourceTree = "<group>"; };
+		F9F9242E1EBBD165009CAB85 /* CoffeeItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CoffeeItem.swift; sourceTree = "<group>"; };
+		F9F924301EBCECAB009CAB85 /* SplitViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplitViewController.swift; sourceTree = "<group>"; };
+		F9F924321EBCECFE009CAB85 /* MenuTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MenuTableViewController.swift; sourceTree = "<group>"; };
+		F9F924341EBCF5B5009CAB85 /* DescriptionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DescriptionViewController.swift; sourceTree = "<group>"; };
+		F9F924361EBCF5BF009CAB85 /* BrewMethodViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrewMethodViewController.swift; sourceTree = "<group>"; };
+		F9F924381EBCF5CB009CAB85 /* VideoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VideoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +90,15 @@
 			isa = PBXGroup;
 			children = (
 				F9F9240D1EBBC549009CAB85 /* AppDelegate.swift */,
-				F9F9240F1EBBC549009CAB85 /* ViewController.swift */,
+				F9F9242A1EBBCC73009CAB85 /* CoffeeCollectionViewController.swift */,
+				F9F9242E1EBBD165009CAB85 /* CoffeeItem.swift */,
+				F9F9242C1EBBCC8F009CAB85 /* CoffeeCollectionViewCell.swift */,
+				F9F924301EBCECAB009CAB85 /* SplitViewController.swift */,
+				F9F924321EBCECFE009CAB85 /* MenuTableViewController.swift */,
 				F9F924111EBBC549009CAB85 /* Main.storyboard */,
+				F9F924341EBCF5B5009CAB85 /* DescriptionViewController.swift */,
+				F9F924361EBCF5BF009CAB85 /* BrewMethodViewController.swift */,
+				F9F924381EBCF5CB009CAB85 /* VideoViewController.swift */,
 				F9F924141EBBC549009CAB85 /* Assets.xcassets */,
 				F9F924161EBBC549009CAB85 /* Info.plist */,
 			);
@@ -197,8 +218,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F9F924101EBBC549009CAB85 /* ViewController.swift in Sources */,
+				F9F924311EBCECAB009CAB85 /* SplitViewController.swift in Sources */,
+				F9F924371EBCF5BF009CAB85 /* BrewMethodViewController.swift in Sources */,
+				F9F924391EBCF5CB009CAB85 /* VideoViewController.swift in Sources */,
+				F9F924351EBCF5B5009CAB85 /* DescriptionViewController.swift in Sources */,
+				F9F9242D1EBBCC8F009CAB85 /* CoffeeCollectionViewCell.swift in Sources */,
+				F9F924331EBCECFE009CAB85 /* MenuTableViewController.swift in Sources */,
 				F9F9240E1EBBC549009CAB85 /* AppDelegate.swift in Sources */,
+				F9F9242F1EBBD165009CAB85 /* CoffeeItem.swift in Sources */,
+				F9F9242B1EBBCC73009CAB85 /* CoffeeCollectionViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -402,6 +430,7 @@
 				F9F924261EBBC549009CAB85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F9F924271EBBC549009CAB85 /* Build configuration list for PBXNativeTarget "BrewTests" */ = {
 			isa = XCConfigurationList;
@@ -410,6 +439,7 @@
 				F9F924291EBBC549009CAB85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Brew/MenuTableViewController.swift"
+            timestampString = "515706283.429402"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
+            landmarkName = "tableView(_:didUpdateFocusIn:with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Brew/MenuTableViewController.swift"
+            timestampString = "515706909.583568"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "MenuTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brew.MenuTableViewController.coffeeItem.getter : Swift.Optional&lt;Brew.CoffeeItem&gt;"
+                  moduleName = "Brew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaeldwilliams/Documents/tvOS/Brew/Brew/MenuTableViewController.swift"
+                  timestampString = "515706910.157686"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "234">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brew.MenuTableViewController.coffeeItem.setter : Swift.Optional&lt;Brew.CoffeeItem&gt;"
+                  moduleName = "Brew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaeldwilliams/Documents/tvOS/Brew/Brew/MenuTableViewController.swift"
+                  timestampString = "515706910.159684"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "641">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brew.MenuTableViewController.init (style : __C.UITableViewStyle) -&gt; Brew.MenuTableViewController"
+                  moduleName = "Brew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaeldwilliams/Documents/tvOS/Brew/Brew/MenuTableViewController.swift"
+                  timestampString = "515706910.162113"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "210">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brew.MenuTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Brew.MenuTableViewController"
+                  moduleName = "Brew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaeldwilliams/Documents/tvOS/Brew/Brew/MenuTableViewController.swift"
+                  timestampString = "515706910.163951"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "300">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Brew.MenuTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Brew.MenuTableViewController&gt;"
+                  moduleName = "Brew"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/michaeldwilliams/Documents/tvOS/Brew/Brew/MenuTableViewController.swift"
+                  timestampString = "515706910.165591"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "210">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
